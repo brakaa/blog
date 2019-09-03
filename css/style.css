@@ -141,10 +141,10 @@ body {
   clear: both;
 }
 .inner {
-  display: inline;
-  float: left;
-  width: 98.33333333333333%;
-  margin: 0 0.833333333333333%;
+  	display: inline;
+    float: left;
+  	width: 98.33333333333333%;
+  	margin: 0 0.833333333333333%;
 }
 .left,
 .alignleft {
